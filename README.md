@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kk8537/kk8537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a student of #University of Calcutta#
 - 🌱 I’m currently pursuing *M.Sc. on Statistics*
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 You can contact me at <a href="khatua.kaushik99@gmail.com"><strong>Email »</strong></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
