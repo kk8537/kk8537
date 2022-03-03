@@ -28,6 +28,6 @@ I am a student of [University of Calcutta](https://www.caluniv.ac.in/) currently
 
 
 ### Languages and tools 🚀
-<img src="https://camo.githubusercontent.com/ac18665005b4292614735b188d530aaef130923b605838a83f876dc0d5409b9f/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f6c6f676f2f526c6f676f2e737667" alt="R">  <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON">   <img src="https://img.icons8.com/color/452/c-programming.png" alt="C">
+<img src="https://camo.githubusercontent.com/ac18665005b4292614735b188d530aaef130923b605838a83f876dc0d5409b9f/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f6c6f676f2f526c6f676f2e737667" alt="R" width="45" height="50" border="2">  <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON" width="45" height="50" border="2">   <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="45" height="50" border="2">
 
 
