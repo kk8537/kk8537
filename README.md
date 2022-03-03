@@ -1,6 +1,9 @@
 # Hi! This is Kaushik
 ## Welcome to my madness
 
+![image](https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png)(https://www.instagram.com/khatuakk_19/)
+
+
 ### About me 😄
 I am a student of [University of Calcutta](https://www.caluniv.ac.in/) currently pursuing Post graduate (M. Sc.) degree. 
 
