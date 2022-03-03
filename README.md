@@ -1,10 +1,17 @@
 # Hi! This is Kaushik
 ## Welcome to my madness
 
-![image](https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png)(https://www.instagram.com/khatuakk_19/)
-<a href="https://www.instagram.com/khatuakk_19/
+
+<a href="https://www.linkedin.com/in/kk8537/
+" target="_blank"><img src="![image](![image](https://user-images.githubusercontent.com/100656971/156488182-d44f509b-1104-42b7-9891-cbb4bdfedb59.png))" 
+alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>    <a href="https://www.instagram.com/khatuakk_19/
 " target="_blank"><img src="https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png" 
-alt="IMAGE ALT TEXT HERE" width="24" height="18" border="2" /></a>
+alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>    <a href="https://www.facebook.com/khatuakk.19/
+" target="_blank"><img src="![image](https://user-images.githubusercontent.com/100656971/156487822-dda47838-3f53-4e7f-8cf7-6631f045dec6.png)" 
+alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>    <a href="https://twitter.com/kaushikkkhatua
+" target="_blank"><img src="![image](![image](https://user-images.githubusercontent.com/100656971/156488000-05b6bd69-98e7-4ea0-ab8c-119905190432.png))" 
+alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>
+
 
 
 ### About me 😄
