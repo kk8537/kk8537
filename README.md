@@ -4,15 +4,15 @@
 
 <a href="https://www.linkedin.com/in/kk8537/
 " target="_blank"><img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" 
-alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>
+alt="IMAGE ALT TEXT HERE" width="50" height="60" border="2" /></a>
 <a href="https://www.instagram.com/khatuakk_19/
-" target="_blank"><img src="https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png" 
+" target="_blank"><img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" 
 alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>    
 <a href="https://www.facebook.com/khatuakk.19/
-" target="_blank"><img src="![image](https://user-images.githubusercontent.com/100656971/156487822-dda47838-3f53-4e7f-8cf7-6631f045dec6.png)" 
+" target="_blank"><img src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" 
 alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>    
 <a href="https://twitter.com/kaushikkkhatua
-" target="_blank"><img src="![image](![image](https://user-images.githubusercontent.com/100656971/156488000-05b6bd69-98e7-4ea0-ab8c-119905190432.png))" 
+" target="_blank"><img src="https://twitter.com/kaushikkkhatua" 
 alt="IMAGE ALT TEXT HERE" width="40" height="18" border="2" /></a>
 
 
