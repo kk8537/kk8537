@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png)(https://www.instagram.com/khatuakk_19/)
 <a href="https://www.instagram.com/khatuakk_19/
 " target="_blank"><img src="https://user-images.githubusercontent.com/100656971/156486434-14f138a8-bb97-4195-bd6b-0ac6366362de.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="24" height="18" border="2" /></a>
 
 
 ### About me 😄
