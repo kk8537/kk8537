@@ -3,15 +3,21 @@
 
 
 <a href="https://www.linkedin.com/in/kk8537/
-" target="_blank"><img src="https://img.icons8.com/color/2x/linkedin.png" 
+" target="_blank"><img src="https://img.icons8.com/color/2x/linkedin-circled--v2.gif" 
 alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>
 <a href="https://www.instagram.com/khatuakk_19/
 " target="_blank"><img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" 
 alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>    <a href="https://www.facebook.com/khatuakk.19/
 " target="_blank"><img src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" 
 alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>    <a href="https://twitter.com/kaushikkkhatua
-" target="_blank"><img src="https://img.icons8.com/ios/2x/twitter--v2.gif" 
+" target="_blank"><img src="https://img.icons8.com/color/2x/twitter--v2.gif" 
+alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>           <a href="https://www.linkedin.com/in/kk8537/
+" target="_blank"><img src="<a href="mailto:khatua.kaushik99@gmail.com
+" target="_blank"><img src="https://img.icons8.com/color/2x/linkedin-circled--v2.gif" 
 alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>
+" 
+alt="IMAGE ALT TEXT HERE" width="45" height="50" border="2" /></a>
+
 
 
 
