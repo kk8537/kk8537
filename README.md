@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi! This is Kaushik
+### Welcome to my madness
 
-- 🔭 I’m currently a student of #University of Calcutta#
+#### About me 😄
+I am a student of University of Calcutta currently pursuing M. Sc. degree. 
+
+#### Alma Mater
+
 - 🌱 I’m currently pursuing *M.Sc. on Statistics*
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
